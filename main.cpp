@@ -7,6 +7,6 @@ int main()
 	SetConsoleTextAttribute(hConsole, 0x0E);
 	cout << "\"Hellow? World!\"" << endl;
 	SetConsoleTextAttribute(hConsole, 0x0F);
-	cout << "/Bjarne Stroustrup/\n";
+	cout << "/Bjarne Stroustrup/\n"; 
 	return 0;
 }
